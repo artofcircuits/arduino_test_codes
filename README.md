@@ -9,7 +9,7 @@ Art of Circuits eShop is Pakistan’s popular electronics and kits store that se
 Address: #3, Lane #7, Lake-View Block,
 Phase-8, Bahria Town, Rawalpindi – PAKISTAN
 eShop: sales[at]artofcircuits.com
-Design Engineering: support@artofcircuits.com
+Design Engineering: support[@]artofcircuits.com
 Phone: 00 92 334 666 1248
 Web: http://artofcircuits.com
 Location: https://goo.gl/AZQAhf
